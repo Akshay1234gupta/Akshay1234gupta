@@ -1,5 +1,5 @@
 ## Hi there 👋
-<img src="https://t4.ftcdn.net/jpg/03/92/02/65/360_F_392026569_GY7ysbevJK4ZwYV1i9Jvmkf7gFNP79VD.jpg"/>
+<img width="100" src="https://t4.ftcdn.net/jpg/03/92/02/65/360_F_392026569_GY7ysbevJK4ZwYV1i9Jvmkf7gFNP79VD.jpg"/>
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm Akshay gupta</h1>
 <h3 align="center">A passionate Java developer from India</h3>
