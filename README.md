@@ -1,6 +1,7 @@
 ## Hi there 👋
-[!MasterHead}(https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 
+
+[!MasterHead}(https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm Akshay gupta</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align-"right" alt="coding" width="400" src="https://www.shutterstock.com/image-vector/young-man-programmer-working-on-600nw-741320251.jpg">
@@ -35,4 +36,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akshay1234gupta&show_icons=true&locale=en" alt="akshay1234gupta" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshay1234gupta&" alt="akshay1234gupta" /></p>
-
